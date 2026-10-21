@@ -4,7 +4,7 @@
 
 A food-ordering checkout (BurgerQueen) that handles the states real apps run into: validation, loading, API errors, network failures and empty data.
 
-- **Live demo:** _add your Vercel link here_
+- **Live demo:** https://react-form-api-states.vercel.app/
 - **Bug fixes, before/after:** the same link + `/bug-fixes`
 
 On the live demo, open **Demo controls** (bottom right) to choose how the fake API responds.
